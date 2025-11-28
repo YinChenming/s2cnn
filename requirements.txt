@@ -1,0 +1,8 @@
+setuptools
+urllib3
+requests
+numpy
+torch
+torchvision
+cython
+scipy
